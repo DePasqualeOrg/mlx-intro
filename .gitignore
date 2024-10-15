@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__/
+ignore/
+node_modules/
+.env
+ignore/
+
+mlx-community/
+
+*.code-workspace
