@@ -1,6 +1,4 @@
 f5-tts-mlx
-numpy
 soundfile
 IPython
 mlx
-tqdm
